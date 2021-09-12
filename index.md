@@ -8,7 +8,7 @@ A project proposal for CS152
 
 Being an avid soccer fan, I plan to use neural networks (NNs) to accurately predict the scoreline of a Premier League soccer game. It will be an application, where two random teams from the Premier League can be pitted against each other, and the NN should be able to predict the resulting scoreline. The most obvious use case of it would be before an actual game, where the NN’s prediction should match the actual, real life final score from the game. 
 
-Though similar projects exist, they are either not too accurate, or better predict the end result, instead of the end scoreline. The dataset for the project already exists. 
+Though similar projects exist, they are either not too accurate, or better predict the end result, instead of the end scoreline. The raw dataset for the project already exists. 
 
 Potential extensions of this project would be to expand to other soccer leagues in the world and international matches. Additionally, predicting the goalscorer on top of the resulting scoreline would require some more data scraping and NN refining. 
 
