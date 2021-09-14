@@ -16,3 +16,4 @@ Potential extensions of this project would be to expand to other soccer leagues 
 1. Find an accurate, up-to-date dataset of Premier League matches with scorelines (and goalscorers).
 2. Train a NN to accurately predict the scoreline between any two Premier League teams.
 3. Improve upon existing, similar applications. 
+4. Explore the consequences of building such an application. 
